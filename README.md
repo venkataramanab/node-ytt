@@ -1,3 +1,15 @@
+<div align="center">
+  <p>
+    <a href="https://www.npmjs.com/package/node-ytt"><img src="https://img.shields.io/npm/v/node-ytt.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/ytsr"><img src="https://img.shields.io/npm/dt/node-ytt.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://david-dm.org/"><img src="https://img.shields.io/david/venkataramanab/node-ytt.svg?maxAge=3600" alt="Dependencies" /></a>
+    <a href="https://greenkeeper.io/"><img src="https://badges.greenkeeper.io/venkataramanab/node-ytt.svg" alt="Dependencies" /></a>
+  </p>
+  <p>
+    <a href="https://nodei.co/npm/node-ytt/"><img src="https://nodei.co/npm/node-ytt.png?downloads=true&stars=true" alt="NPM info" /></a>
+  </p>
+</div>
+
 # node-ytt
 
 Simple module to get YouTube trending videos.
