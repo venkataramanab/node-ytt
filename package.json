@@ -14,7 +14,7 @@
   "author": "venkataramanab (https://github.com/venkataramanab)",
   "license": "MIT",
   "dependencies": {
-    "chrono-node": "^1.4.5"
+    "chrono-node": "^2.2.4"
   },
   "bugs": {
     "url": "https://github.com/venkataramanab/node-ytt/issues"
