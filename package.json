@@ -1,6 +1,6 @@
 {
   "name": "node-ytt",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "YouTube Trends, get YouTube trending videos without GoogleAPI Key",
   "main": "./lib/main.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "venkataramanab (https://github.com/venkataramanab)",
   "license": "MIT",
   "dependencies": {
-    "chrono-node": "^1.4.5"
+    "chrono-node": "2.7.6"
   },
   "bugs": {
     "url": "https://github.com/venkataramanab/node-ytt/issues"
